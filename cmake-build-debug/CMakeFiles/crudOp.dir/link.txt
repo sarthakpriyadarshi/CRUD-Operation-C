@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/crudOp.dir/main.c.o -o crudOp 
